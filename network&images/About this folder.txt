@@ -1,0 +1,2 @@
+This folder contains the .pkl files for full netwrork and filtered network used. Also has the image representations of these networks. 
+There is also an interactive html for the same networks in notebooks folder.
