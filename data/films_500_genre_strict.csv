@@ -1,0 +1,567 @@
+title,film_slug
+Inception,inception
+The Matrix,the-matrix
+The Matrix Reloaded,the-matrix-reloaded
+The Matrix Revolutions,the-matrix-revolutions
+The Matrix Resurrections,the-matrix-resurrections
+Blade Runner,blade-runner
+Blade Runner 2049,blade-runner-2049
+Interstellar,interstellar
+Arrival,arrival
+Ex Machina,ex-machina
+Moon,moon
+District 9,district-9
+Looper,looper
+Edge of Tomorrow,edge-of-tomorrow
+Minority Report,minority-report
+The Terminator,the-terminator
+Terminator 2: Judgment Day,terminator-2-judgment-day
+Terminator 3: Rise of the Machines,terminator-3-rise-of-the-machines
+Terminator Salvation,terminator-salvation
+Terminator Genisys,terminator-genisys
+Aliens,aliens
+Alien,alien
+Alien 3,alien-3
+Alien Resurrection,alien-resurrection
+Prometheus,prometheus
+Alien: Covenant,alien-covenant
+Mad Max: Fury Road,mad-max-fury-road
+Mad Max,mad-max
+Mad Max 2,mad-max-2
+Mad Max Beyond Thunderdome,mad-max-beyond-thunderdome
+Children of Men,children-of-men
+Her,her
+Eternal Sunshine of the Spotless Mind,eternal-sunshine-of-the-spotless-mind
+The Fifth Element,the-fifth-element
+The Martian,the-martian
+Gravity,gravity
+Contact,contact
+Close Encounters of the Third Kind,close-encounters-of-the-third-kind
+E.T. the Extra-Terrestrial,et-the-extra-terrestrial
+Star Wars,star-wars
+The Empire Strikes Back,the-empire-strikes-back
+Return of the Jedi,return-of-the-jedi
+A New Hope,a-new-hope
+The Force Awakens,the-force-awakens
+The Last Jedi,the-last-jedi
+The Rise of Skywalker,the-rise-of-skywalker
+Rogue One,rogue-one
+Solo: A Star Wars Story,solo-a-star-wars-story
+The Phantom Menace,star-wars-episode-i-the-phantom-menace
+Attack of the Clones,star-wars-episode-ii-attack-of-the-clones
+Revenge of the Sith,star-wars-episode-iii-revenge-of-the-sith
+Star Trek,star-trek-2009
+Star Trek Into Darkness,star-trek-into-darkness
+Star Trek Beyond,star-trek-beyond
+Star Trek II: The Wrath of Khan,star-trek-ii-the-wrath-of-khan
+Star Trek: First Contact,star-trek-first-contact
+Guardians of the Galaxy,guardians-of-the-galaxy
+Guardians of the Galaxy Vol. 2,guardians-of-the-galaxy-vol-2
+Guardians of the Galaxy Vol. 3,guardians-of-the-galaxy-vol-3
+Iron Man,iron-man
+Iron Man 2,iron-man-2
+Iron Man 3,iron-man-3
+The Avengers,the-avengers
+Avengers: Age of Ultron,avengers-age-of-ultron
+Avengers: Infinity War,avengers-infinity-war
+Avengers: Endgame,avengers-endgame
+Captain America: The First Avenger,captain-america-the-first-avenger
+Captain America: The Winter Soldier,captain-america-the-winter-soldier
+Captain America: Civil War,captain-america-civil-war
+Thor,thor
+Thor: The Dark World,thor-the-dark-world
+Thor: Ragnarok,thor-ragnarok
+Thor: Love and Thunder,thor-love-and-thunder
+Black Panther,black-panther
+Black Panther: Wakanda Forever,black-panther-wakanda-forever
+Spider-Man: Homecoming,spider-man-homecoming
+Spider-Man: Far From Home,spider-man-far-from-home
+Spider-Man: No Way Home,spider-man-no-way-home
+Doctor Strange,doctor-strange
+Doctor Strange in the Multiverse of Madness,doctor-strange-in-the-multiverse-of-madness
+Ant-Man,ant-man
+Ant-Man and the Wasp,ant-man-and-the-wasp
+Ant-Man and the Wasp: Quantumania,ant-man-and-the-wasp-quantumania
+Captain Marvel,captain-marvel
+The Marvels,the-marvels
+Shang-Chi and the Legend of the Ten Rings,shang-chi-and-the-legend-of-the-ten-rings
+Eternals,eternals
+Black Widow,black-widow
+Spider-Man,spider-man
+Spider-Man 2,spider-man-2
+Spider-Man 3,spider-man-3
+The Amazing Spider-Man,the-amazing-spider-man
+The Amazing Spider-Man 2,the-amazing-spider-man-2
+Logan,logan
+Deadpool,deadpool
+Deadpool 2,deadpool-2
+Deadpool & Wolverine,deadpool-and-wolverine
+X-Men,x-men
+X2: X-Men United,x2-x-men-united
+X-Men: The Last Stand,x-men-the-last-stand
+X-Men: First Class,x-men-first-class
+X-Men: Days of Future Past,x-men-days-of-future-past
+X-Men: Apocalypse,x-men-apocalypse
+X-Men: Dark Phoenix,x-men-dark-phoenix
+The Wolverine,the-wolverine
+X-Men Origins: Wolverine,x-men-origins-wolverine
+The New Mutants,the-new-mutants
+Watchmen,watchmen
+V for Vendetta,v-for-vendetta
+Predator,predator
+Predator 2,predator-2
+Predators,predators
+The Predator,the-predator
+Prey,prey
+RoboCop,robocop
+RoboCop 2,robocop-2
+RoboCop 3,robocop-3
+Total Recall,total-recall-1990
+Total Recall,total-recall-2012
+Starship Troopers,starship-troopers
+The Fly,the-fly-1986
+Videodrome,videodrome
+Scanners,scanners
+They Live,they-live
+Escape from New York,escape-from-new-york
+Escape from L.A.,escape-from-la
+Big Trouble in Little China,big-trouble-in-little-china
+The Thing,the-thing
+Dark City,dark-city
+Gattaca,gattaca
+12 Monkeys,12-monkeys
+Brazil,brazil
+A Clockwork Orange,a-clockwork-orange
+2001: A Space Odyssey,2001-a-space-odyssey
+2010: The Year We Make Contact,2010-the-year-we-make-contact
+Solaris,solaris-1972
+Solaris,solaris-2002
+Stalker,stalker
+Metropolis,metropolis
+Akira,akira
+Ghost in the Shell,ghost-in-the-shell
+Ghost in the Shell,ghost-in-the-shell-2017
+Paprika,paprika
+Cowboy Bebop: The Movie,cowboy-bebop-the-movie
+Redline,redline
+Dune,dune
+Dune: Part Two,dune-part-two
+Dune,dune-1984
+Donnie Darko,donnie-darko
+Primer,primer
+Coherence,coherence
+Triangle,triangle
+Timecrimes,timecrimes
+Predestination,predestination
+Source Code,source-code
+The Butterfly Effect,the-butterfly-effect
+About Time,about-time
+Everything Everywhere All at Once,everything-everywhere-all-at-once
+Annihilation,annihilation
+Under the Skin,under-the-skin
+Sorry to Bother You,sorry-to-bother-you
+The Lobster,the-lobster
+Swiss Army Man,swiss-army-man
+Being John Malkovich,being-john-malkovich
+Adaptation,adaptation
+"Synecdoche, New York",synecdoche-new-york
+I'm Thinking of Ending Things,im-thinking-of-ending-things
+A Scanner Darkly,a-scanner-darkly
+Waking Life,waking-life
+Snowpiercer,snowpiercer
+The Host,the-host-2006
+Tenet,tenet
+Elysium,elysium
+Chappie,chappie
+Oblivion,oblivion
+I Am Legend,i-am-legend
+The Road,the-road
+The Book of Eli,the-book-of-eli
+Waterworld,waterworld
+Dredd,dredd
+Judge Dredd,judge-dredd
+The Island,the-island
+In Time,in-time
+Equilibrium,equilibrium
+Gamer,gamer
+Surrogates,surrogates
+"I, Robot",i-robot
+WALL-E,wall-e
+Transcendence,transcendence
+Lucy,lucy
+Limitless,limitless
+The Adjustment Bureau,the-adjustment-bureau
+The Truman Show,the-truman-show
+Pleasantville,pleasantville
+Serenity,serenity
+The Chronicles of Riddick,the-chronicles-of-riddick
+Pitch Black,pitch-black
+Riddick,riddick
+Event Horizon,event-horizon
+Pandorum,pandorum
+Sunshine,sunshine
+Life,life
+Europa Report,europa-report
+The Cloverfield Paradox,the-cloverfield-paradox
+10 Cloverfield Lane,10-cloverfield-lane
+Cloverfield,cloverfield
+A Quiet Place,a-quiet-place
+A Quiet Place Part II,a-quiet-place-part-ii
+The Happening,the-happening
+Signs,signs
+The Village,the-village
+War of the Worlds,war-of-the-worlds
+Independence Day,independence-day
+Independence Day: Resurgence,independence-day-resurgence
+Battle Los Angeles,battle-los-angeles
+Skyline,skyline
+Pacific Rim,pacific-rim
+Pacific Rim: Uprising,pacific-rim-uprising
+Transformers,transformers
+Transformers: Revenge of the Fallen,transformers-revenge-of-the-fallen
+Transformers: Dark of the Moon,transformers-dark-of-the-moon
+Transformers: Age of Extinction,transformers-age-of-extinction
+Transformers: The Last Knight,transformers-the-last-knight
+Bumblebee,bumblebee
+The Day the Earth Stood Still,the-day-the-earth-stood-still
+The Day the Earth Stood Still,the-day-the-earth-stood-still-2008
+Invasion of the Body Snatchers,invasion-of-the-body-snatchers
+The Blob,the-blob
+Attack the Block,attack-the-block
+Super 8,super-8
+Chronicle,chronicle
+Jumper,jumper
+Push,push
+Project Power,project-power
+Code 8,code-8
+Upgrade,upgrade
+Hardcore Henry,hardcore-henry
+Free Guy,free-guy
+Ready Player One,ready-player-one
+Tron,tron
+Tron: Legacy,tron-legacy
+The Thirteenth Floor,the-thirteenth-floor
+eXistenZ,existenz
+Virtuosity,virtuosity
+The Lawnmower Man,the-lawnmower-man
+Strange Days,strange-days
+Johnny Mnemonic,johnny-mnemonic
+A.I. Artificial Intelligence,ai-artificial-intelligence
+Bicentennial Man,bicentennial-man
+Automata,automata
+Real Steel,real-steel
+Robot & Frank,robot-and-frank
+Big Hero 6,big-hero-6
+The Dark Knight,the-dark-knight
+The Dark Knight Rises,the-dark-knight-rises
+Batman Begins,batman-begins
+The Batman,the-batman
+Joker,joker
+Se7en,se7en
+Fight Club,fight-club
+Gone Girl,gone-girl
+The Girl with the Dragon Tattoo,the-girl-with-the-dragon-tattoo
+The Girl with the Dragon Tattoo,the-girl-with-the-dragon-tattoo-2009
+Zodiac,zodiac
+Prisoners,prisoners
+Sicario,sicario
+Sicario: Day of the Soldado,sicario-day-of-the-soldado
+No Country for Old Men,no-country-for-old-men
+There Will Be Blood,there-will-be-blood
+Nightcrawler,nightcrawler
+Shutter Island,shutter-island
+The Sixth Sense,the-sixth-sense
+The Prestige,the-prestige
+Memento,memento
+The Usual Suspects,the-usual-suspects
+Knives Out,knives-out
+Glass Onion,glass-onion
+Murder on the Orient Express,murder-on-the-orient-express
+Death on the Nile,death-on-the-nile
+The Silence of the Lambs,the-silence-of-the-lambs
+Red Dragon,red-dragon
+Hannibal,hannibal
+Manhunter,manhunter
+Psycho,psycho
+Vertigo,vertigo
+Rear Window,rear-window
+North by Northwest,north-by-northwest
+Chinatown,chinatown
+L.A. Confidential,la-confidential
+Fargo,fargo
+The Big Lebowski,the-big-lebowski
+Pulp Fiction,pulp-fiction
+Reservoir Dogs,reservoir-dogs
+Kill Bill: Vol. 1,kill-bill-vol-1
+Kill Bill: Vol. 2,kill-bill-vol-2
+Django Unchained,django-unchained
+Inglourious Basterds,inglourious-basterds
+The Hateful Eight,the-hateful-eight
+Once Upon a Time in Hollywood,once-upon-a-time-in-hollywood
+Jackie Brown,jackie-brown
+John Wick,john-wick
+John Wick: Chapter 2,john-wick-chapter-2
+John Wick: Chapter 3 - Parabellum,john-wick-chapter-3-parabellum
+John Wick: Chapter 4,john-wick-chapter-4
+The Bourne Identity,the-bourne-identity
+The Bourne Supremacy,the-bourne-supremacy
+The Bourne Ultimatum,the-bourne-ultimatum
+The Bourne Legacy,the-bourne-legacy
+Jason Bourne,jason-bourne
+Casino Royale,casino-royale
+Quantum of Solace,quantum-of-solace
+Skyfall,skyfall
+Spectre,spectre
+No Time to Die,no-time-to-die
+Mission: Impossible,mission-impossible
+Mission: Impossible II,mission-impossible-ii
+Mission: Impossible III,mission-impossible-iii
+Mission: Impossible - Ghost Protocol,mission-impossible-ghost-protocol
+Mission: Impossible - Rogue Nation,mission-impossible-rogue-nation
+Mission: Impossible - Fallout,mission-impossible-fallout
+Mission: Impossible - Dead Reckoning Part One,mission-impossible-dead-reckoning-part-one
+Die Hard,die-hard
+Die Hard 2,die-hard-2
+Die Hard with a Vengeance,die-hard-with-a-vengeance
+Live Free or Die Hard,live-free-or-die-hard
+A Good Day to Die Hard,a-good-day-to-die-hard
+The Fugitive,the-fugitive
+U.S. Marshals,us-marshals
+Collateral,collateral
+Heat,heat
+Drive,drive
+Baby Driver,baby-driver
+The Town,the-town
+The Departed,the-departed
+Infernal Affairs,infernal-affairs
+Goodfellas,goodfellas
+Casino,casino
+The Godfather,the-godfather
+The Godfather Part II,the-godfather-part-ii
+The Godfather Part III,the-godfather-part-iii
+Donnie Brasco,donnie-brasco
+Black Mass,black-mass
+The Irishman,the-irishman
+American Gangster,american-gangster
+Carlito's Way,carlitos-way
+Scarface,scarface
+Mystic River,mystic-river
+Gone Baby Gone,gone-baby-gone
+The Drop,the-drop
+Wind River,wind-river
+Hell or High Water,hell-or-high-water
+"Three Billboards Outside Ebbing, Missouri",three-billboards-outside-ebbing-missouri
+In Bruges,in-bruges
+Seven Psychopaths,seven-psychopaths
+Layer Cake,layer-cake
+Snatch,snatch
+"Lock, Stock and Two Smoking Barrels",lock-stock-and-two-smoking-barrels
+RocknRolla,rocknrolla
+The Gentlemen,the-gentlemen
+Wrath of Man,wrath-of-man
+The Mechanic,the-mechanic-2011
+Mechanic: Resurrection,mechanic-resurrection
+The Transporter,the-transporter
+Transporter 2,transporter-2
+Transporter 3,transporter-3
+The Bank Job,the-bank-job
+Inside Man,inside-man
+The Italian Job,the-italian-job-2003
+Ocean's Eleven,oceans-eleven
+Ocean's Twelve,oceans-twelve
+Ocean's Thirteen,oceans-thirteen
+Ocean's 8,oceans-8
+Now You See Me,now-you-see-me
+Now You See Me 2,now-you-see-me-2
+Focus,focus
+21,21
+Rounders,rounders
+Molly's Game,mollys-game
+Uncut Gems,uncut-gems
+Good Time,good-time
+Nocturnal Animals,nocturnal-animals
+Enemy,enemy
+Incendies,incendies
+The Machinist,the-machinist
+Insomnia,insomnia
+One Hour Photo,one-hour-photo
+The Game,the-game
+Panic Room,panic-room
+Flightplan,flightplan
+Red Eye,red-eye
+Non-Stop,non-stop
+The Commuter,the-commuter
+Unknown,unknown
+Taken,taken
+Taken 2,taken-2
+Taken 3,taken-3
+The Grey,the-grey
+Run All Night,run-all-night
+A Walk Among the Tombstones,a-walk-among-the-tombstones
+Cold Pursuit,cold-pursuit
+The Marksman,the-marksman
+Honest Thief,honest-thief
+Nobody,nobody
+The Equalizer,the-equalizer
+The Equalizer 2,the-equalizer-2
+The Equalizer 3,the-equalizer-3
+Man on Fire,man-on-fire
+The Taking of Pelham 123,the-taking-of-pelham-123
+Déjà Vu,deja-vu
+Unstoppable,unstoppable
+Crimson Tide,crimson-tide
+The Bone Collector,the-bone-collector
+The Little Things,the-little-things
+The Devil's Advocate,the-devils-advocate
+Get Out,get-out
+Us,us
+Nope,nope
+Parasite,parasite
+Oldboy,oldboy
+Oldboy,oldboy-2013
+Memories of Murder,memories-of-murder
+The Wailing,the-wailing
+Train to Busan,train-to-busan
+Peninsula,peninsula
+I Saw the Devil,i-saw-the-devil
+The Handmaiden,the-handmaiden
+Mother,mother-2009
+Burning,burning-2018
+Thirst,thirst
+The Lighthouse,the-lighthouse
+The Witch,the-witch
+The Northman,the-northman
+Midsommar,midsommar
+Hereditary,hereditary
+It Follows,it-follows
+The Babadook,the-babadook
+The Conjuring,the-conjuring
+The Conjuring 2,the-conjuring-2
+The Conjuring: The Devil Made Me Do It,the-conjuring-the-devil-made-me-do-it
+Annabelle,annabelle
+Annabelle: Creation,annabelle-creation
+Annabelle Comes Home,annabelle-comes-home
+The Nun,the-nun
+The Nun II,the-nun-ii
+The Curse of La Llorona,the-curse-of-la-llorona
+Insidious,insidious
+Insidious: Chapter 2,insidious-chapter-2
+Insidious: Chapter 3,insidious-chapter-3
+Insidious: The Last Key,insidious-the-last-key
+Sinister,sinister
+Sinister 2,sinister-2
+The Ring,the-ring
+The Ring Two,the-ring-two
+Rings,rings
+The Grudge,the-grudge-2004
+The Grudge 2,the-grudge-2
+The Grudge 3,the-grudge-3
+The Grudge,the-grudge-2020
+Dark Water,dark-water-2002
+Dark Water,dark-water-2005
+Pulse,pulse-2001
+Pulse,pulse-2006
+Cure,cure
+Audition,audition
+Ringu,ringu
+Ju-On: The Grudge,ju-on-the-grudge
+House,hausu
+Tetsuo: The Iron Man,tetsuo-the-iron-man
+Perfect Blue,perfect-blue
+The Exorcist,the-exorcist
+The Exorcist III,the-exorcist-iii
+The Shining,the-shining
+Doctor Sleep,doctor-sleep
+Rosemary's Baby,rosemarys-baby
+Suspiria,suspiria
+Suspiria,suspiria-2018
+Halloween,halloween
+Halloween II,halloween-ii
+Halloween III: Season of the Witch,halloween-iii-season-of-the-witch
+Halloween 4: The Return of Michael Myers,halloween-4-the-return-of-michael-myers
+Halloween 5: The Revenge of Michael Myers,halloween-5-the-revenge-of-michael-myers
+Halloween: The Curse of Michael Myers,halloween-the-curse-of-michael-myers
+Halloween H20: 20 Years Later,halloween-h20-20-years-later
+Halloween: Resurrection,halloween-resurrection
+Halloween,halloween-2007
+Halloween II,halloween-ii-2009
+Halloween,halloween-2018
+Halloween Kills,halloween-kills
+Halloween Ends,halloween-ends
+The Texas Chain Saw Massacre,the-texas-chain-saw-massacre
+The Texas Chainsaw Massacre 2,the-texas-chainsaw-massacre-2
+The Texas Chainsaw Massacre,the-texas-chainsaw-massacre-2003
+The Texas Chainsaw Massacre: The Beginning,the-texas-chainsaw-massacre-the-beginning
+Texas Chainsaw 3D,texas-chainsaw-3d
+Leatherface,leatherface
+Texas Chainsaw Massacre,texas-chainsaw-massacre
+A Nightmare on Elm Street,a-nightmare-on-elm-street
+A Nightmare on Elm Street 2: Freddy's Revenge,a-nightmare-on-elm-street-2-freddys-revenge
+A Nightmare on Elm Street 3: Dream Warriors,a-nightmare-on-elm-street-3-dream-warriors
+A Nightmare on Elm Street 4: The Dream Master,a-nightmare-on-elm-street-4-the-dream-master
+A Nightmare on Elm Street 5: The Dream Child,a-nightmare-on-elm-street-5-the-dream-child
+Freddy's Dead: The Final Nightmare,freddys-dead-the-final-nightmare
+Wes Craven's New Nightmare,wes-cravens-new-nightmare
+A Nightmare on Elm Street,a-nightmare-on-elm-street-2010
+Freddy vs. Jason,freddy-vs-jason
+Friday the 13th,friday-the-13th
+Friday the 13th Part 2,friday-the-13th-part-2
+Friday the 13th Part III,friday-the-13th-part-iii
+Friday the 13th: The Final Chapter,friday-the-13th-the-final-chapter
+Friday the 13th: A New Beginning,friday-the-13th-a-new-beginning
+Friday the 13th Part VI: Jason Lives,friday-the-13th-part-vi-jason-lives
+Friday the 13th Part VII: The New Blood,friday-the-13th-part-vii-the-new-blood
+Friday the 13th Part VIII: Jason Takes Manhattan,friday-the-13th-part-viii-jason-takes-manhattan
+Jason Goes to Hell: The Final Friday,jason-goes-to-hell-the-final-friday
+Jason X,jason-x
+Friday the 13th,friday-the-13th-2009
+Scream,scream
+Scream 2,scream-2
+Scream 3,scream-3
+Scream 4,scream-4
+Scream,scream-2022
+Scream VI,scream-vi
+I Know What You Did Last Summer,i-know-what-you-did-last-summer
+I Still Know What You Did Last Summer,i-still-know-what-you-did-last-summer
+Urban Legend,urban-legend
+Urban Legends: Final Cut,urban-legends-final-cut
+Final Destination,final-destination
+Final Destination 2,final-destination-2
+Final Destination 3,final-destination-3
+The Final Destination,the-final-destination
+Final Destination 5,final-destination-5
+Saw,saw
+Saw II,saw-ii
+Saw III,saw-iii
+Saw IV,saw-iv
+Saw V,saw-v
+Saw VI,saw-vi
+Saw 3D,saw-3d
+Jigsaw,jigsaw
+Spiral,spiral
+Saw X,saw-x
+Hostel,hostel
+Hostel: Part II,hostel-part-ii
+Hostel: Part III,hostel-part-iii
+The Blair Witch Project,the-blair-witch-project
+Book of Shadows: Blair Witch 2,book-of-shadows-blair-witch-2
+Blair Witch,blair-witch
+Paranormal Activity,paranormal-activity
+Paranormal Activity 2,paranormal-activity-2
+Paranormal Activity 3,paranormal-activity-3
+Paranormal Activity 4,paranormal-activity-4
+Paranormal Activity: The Marked Ones,paranormal-activity-the-marked-ones
+Paranormal Activity: The Ghost Dimension,paranormal-activity-the-ghost-dimension
+Rec,rec
+[REC] 2,rec-2
+[REC] 3: Genesis,rec-3-genesis
+[REC] 4: Apocalypse,rec-4-apocalypse
+Quarantine,quarantine
+Quarantine 2: Terminal,quarantine-2-terminal
+The Descent,the-descent
+The Descent: Part 2,the-descent-part-2
+"As Above, So Below",as-above-so-below
+The Tunnel,the-tunnel
+Creep,creep-2014
+Creep 2,creep-2
+The Visit,the-visit
